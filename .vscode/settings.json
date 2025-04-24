@@ -1,0 +1,13 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.29.2",
+  "dart.lineLength": 140,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "files.insertFinalNewline": true,
+  "cSpell.words": [
+    "kisskiss",
+    "robokassa",
+    "uikit"
+  ]
+}
